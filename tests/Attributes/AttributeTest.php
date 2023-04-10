@@ -1,13 +1,13 @@
 <?php
 
-namespace BsdTraning\UnitTest\Tests;
+namespace BsdTraning\UnitTest\Attributes;
 
 use BsdTraning\UnitTest\Models\User;
 use PHPUnit\Framework\Attributes\TestDox;
 use PHPUnit\Framework\TestCase;
 use PHPUnit\Framework\Attributes\Test;
 
-class UserTest extends TestCase
+class AttributeTest extends TestCase
 {
 
 //    #[TestDox('It does something')]
